@@ -1,3 +1,24 @@
+### Login Page
+![Login Screenshot](image/login.png)
+
+### User Register Page
+![Login Screenshot](image/register.png)
+
+### Dashboard
+![Dashboard Screenshot](image/dashboard.png)
+
+### Add Booking Page
+![User Booking page](image/add_booking.png)
+
+### Booking list
+![User Booking List page](image/userbooking_lis.png)
+
+### Booking show Page
+![User Booking show page](image/user_booking_detail.png)
+
+### Booking Update
+![User Booking update page](image/booking_update.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
